@@ -1,5 +1,5 @@
 # pandas-challenge
-Module 4 challenge in the Data Analytics &amp;Vizualization Bootcamp. The Jupyter notebook PyCitySchools.ipynb in the PyCitySchools folder analyzes the standardized test data in the Resources folder for 15 high school in PyCity.
+Module 4 challenge in the Data Analytics &amp;Vizualization Bootcamp. The Jupyter notebook PyCitySchools.ipynb in the PyCitySchools folder analyzes the standardized test data in the Resources folder for 15 high schools in PyCity.
 
 # Summary
  * Overall, there are 15 schools in the district with 39,170 students, the passing percentage of math and reading is 65%. The district has a total budget of $24.65M.
